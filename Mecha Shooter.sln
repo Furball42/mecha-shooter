@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D3AC40F3-455E-78E3-2C4D-6253DDDAA0B9}") = "Mecha Shooter", "Assembly-CSharp.csproj", "{1896395C-936A-1D0C-AF2D-EFEB1B68427A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1896395C-936A-1D0C-AF2D-EFEB1B68427A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1896395C-936A-1D0C-AF2D-EFEB1B68427A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1896395C-936A-1D0C-AF2D-EFEB1B68427A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1896395C-936A-1D0C-AF2D-EFEB1B68427A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
